@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Aplikasi Cuaca</string>
+
+    <string name="insert_city">Masukan id kota</string>
+    <string name="search">Cari</string>
+    <string name="id_jakarta_bandung_semarang">1642911,1650357,1627896</string>
+    <string name="temperature">Temperatur</string>
+    <string name="description">Deskripsi</string>
+    <string name="name">Nama</string>
+
+    <!-- https://pastebin.com/sLybgXNb -->
+    <!-- weather_items.xml -->
+</resources>
